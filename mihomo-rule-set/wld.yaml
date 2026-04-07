@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,wildberries.ru
   - DOMAIN-SUFFIX,wb.ru
   - DOMAIN-SUFFIX,vk.ru
+  - DOMAIN-SUFFIX,vk.com
+  - DOMAIN-SUFFIX,vkuserphoto.ru
   - DOMAIN-SUFFIX,vk-portal.net
   - DOMAIN-SUFFIX,userapi.com
   - DOMAIN-SUFFIX,tutu.ru
