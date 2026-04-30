@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,ok.ru
   - DOMAIN-SUFFIX,mradx.net
   - DOMAIN-SUFFIX,max.ru
+  - DOMAIN-SUFFIX,oneme.ru
   - DOMAIN-SUFFIX,mail.ru
   - DOMAIN-SUFFIX,lenta.ru
   - DOMAIN-SUFFIX,lemanapro.ru
